@@ -56,9 +56,10 @@ def max_marks(list1):
 
 
 ## Output:
-![Screenshot 2024-04-01 000612](https://github.com/Ratheesh28/FindMaximum/assets/138849186/51a072c0-7d99-450a-b58a-3568b97842f7)
-![Screenshot 2024-04-01 000646](https://github.com/Ratheesh28/FindMaximum/assets/138849186/1b66f018-61e7-4e78-aa30-f4b1d01aa716)
-![Screenshot 2024-04-01 000656](https://github.com/Ratheesh28/FindMaximum/assets/138849186/7116da0b-060c-473a-aca0-98293265ab5a)
+![Screenshot 2024-04-10 134049](https://github.com/Ratheesh28/FindMaximum/assets/138849186/1678abb8-d6a9-4175-b340-1c7d18edd693)
+![Screenshot 2024-04-10 134141](https://github.com/Ratheesh28/FindMaximum/assets/138849186/507b0540-2119-4d92-9310-27849385994a)
+![Screenshot 2024-04-10 134817](https://github.com/Ratheesh28/FindMaximum/assets/138849186/5dc5d868-550a-4455-ba1c-bc5b0ea73b19)
+
 
 
 ## Result:
